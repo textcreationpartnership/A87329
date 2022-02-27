@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance from the Lords and Commons assembled in Parliament at Dublin, concerning the estate of Ireland. The barbarousnesse of the bloody rebels, and a protestation of their complyance with the power of England, for reducing of that kingdome. This remonstrance is appointed to be printed and publishe[d] according to the directions of an order of Parliament.</title>
+            <author>Ireland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87329</idno>
+            <idno type="STC">Wing I642B</idno>
+            <idno type="STC">Thomason E382_3</idno>
+            <idno type="STC">ESTC R201421</idno>
+            <idno type="EEBO-CITATION">99861933</idno>
+            <idno type="PROQUEST">99861933</idno>
+            <idno type="VID">160172</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87329)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160172)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E382[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance from the Lords and Commons assembled in Parliament at Dublin, concerning the estate of Ireland. The barbarousnesse of the bloody rebels, and a protestation of their complyance with the power of England, for reducing of that kingdome. This remonstrance is appointed to be printed and publishe[d] according to the directions of an order of Parliament.</title>
+                  <author>Ireland. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Bladen, printer to the Kings most Excellent maiesty,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>anno Dom. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In the title, the "d" in "published" has failed to print.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "March 27 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Ireland --  Politics and government --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160172:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 24 -->
+            <p>Remonſtrance FROM THE LORDS AND COMMONS Aſſembled in PARLIAMENT at DUBLIN, concerning the Eſtate of IRELAND.</p>
+            <p>The barbarouſneſſe of the bloody Rebels, and a Proteſtation of their Complyance with the Power of England, for reducing of that Kingdome.</p>
+            <p>This Remonſtrance is appointed to be printed and publiſhe according to the directions of an ORDER of PARLI<g ref="char:EOLhyphen"/>AMENT.</p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN:</hi> Printed by <hi>William B<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>den,</hi> Printer to the Kings moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſty, <hi>Anno Dom.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160172:2"/>
+            <!-- PDF PAGE 25 -->
+            <pb facs="tcp:160172:2"/>
+            <!-- PDF PAGE 25 -->
+            <head>The humble REMONSTRANCE OF THE LORDS and COMMONS in PARLIAMENT Aſsembled at DUBLIN.</head>
+            <p>HUmbly declaring, that the Religion now profeſſed by the Church of Roome (which in fundamentall points is Antichriſtian and hereticall) hath of late yeares extraordinarily over-ſpread this Kingdome, and hath the more increa<g ref="char:EOLhyphen"/>ſed by the forbearing to put in execution,
+<pb facs="tcp:160172:3"/>
+               <!-- PDF PAGE 26 -->
+the wholſome Lawes and Statutes of force in this Kingdome, againſt Recuſants and others of the Ro<g ref="char:EOLhyphen"/>miſh-Religion, who have of late times more then formerly extreamely ſwarmed in this Kingdome. And whereas it evidently appeares; that the ſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id An<g ref="char:EOLhyphen"/>chriſtian and hereticall Religion, and the not putting the ſaid Lawes in execution hath as the fruits and effects thereof, produced a generall confederacie, of the Papiſts in this Kingdome, to deſtroy, and ex<g ref="char:EOLhyphen"/>tirpe the Proteſtant Religion, and all <hi>Engliſh, Scot<g ref="char:EOLhyphen"/>tiſh,</hi> and <hi>Iriſh</hi> in this Kingdome-profeſſing the ſame; wherein they have actually proceeded to execrable cruelties, (with out any prevocation give them by His ſacred Majeſty; by the State or Government, or any acts of the Proteſtants, or any others) they in<g ref="char:EOLhyphen"/>tending utterly to caſt of the <hi>Engliſh</hi> Government, and moſt royall Authority of our Soveraign Lord the <hi>King.</hi> And where divers of the <hi>Romiſh</hi> Religion have in all parts of this Kingdome, inhumanely uſed moſt bloody and unheard of barbarous cruelties a<g ref="char:EOLhyphen"/>gainſt the perſons as well of the Clergie, as of moſt of the Proteſtant Religion within their power, not onely while life laſted, but even after death, digging ſome of them out of their graves, cutting them in peeces, and caſting them into ditches, defiling of Churches, and ſetting up the abominable Idoll of the Maſſe, in ſtead of Gods true worſhip, and ſervice, and in ſcornefull, and reproach<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull manner, trample<g ref="char:EOLhyphen"/>ing under foote the holy Bible, and disdainfully burning it, &amp; have by their ſaid cruelties already de<g ref="char:EOLhyphen"/>ſtroyed many thouſand Proteſtants, and of thoſe that remaine, and eſcaped their fury, moſt of them have
+<pb facs="tcp:160172:3"/>
+               <!-- PDF PAGE 26 -->
+been enforced to flye into <hi>England</hi> or <hi>Scotland</hi> for re<g ref="char:EOLhyphen"/>liefe, or to beg the Charitie of well diſpoſed people here.  The ſaid Lords and Commons duly conſidering the premiſes, and the great diſhonour done to God, to his Majeſty, to the <hi>Engliſh</hi> Nation, and indeed to all His Majeſties Kingdomes by the ſaid moſt wicked Rebellion, plotted and acted by titulary Biſhops, Abbots, Jeſuits, Friars, Prieſts, Moncks, and others of the Romiſh Religion; do humbly expreſſe their det<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtati<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n thereof, that though reformation of Religion may be had in this Kingdome, to the glorie of God, and the honour of His ſacred Majeſtie, and to that end p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay, that a pre<g ref="char:EOLhyphen"/>ſent and effectuall courſe may be taken for putting in Execution, the Lawes and Statutes of force in this Kingdome againſt Recuſants, and all others of the Popiſh pretended Religion, in all parts of this King<g ref="char:EOLhyphen"/>dome, where the Lawes do or may run, and for ſuppreſſing the uſurped power, and jurisdiction of the Sea of Roome, and particulare in the Citie of <hi>Dublin,</hi> which is now the Citie of refuge; for moſt of the diſtreſſed, diſ-poiled Proteſtants of this King<g ref="char:EOLhyphen"/>dome, who yet are not without juſt feares, of emi<g ref="char:EOLhyphen"/>nent dangers, by reaſon of the multitude of Popiſh Inhabitants. And they do pray that it may be given in Charge to all His Majeſties Officers, whom it may concerne, faithfull, and without delay to proceede therein, and that monthly Seſſions be held for that purpoſe, in the ſaid Citie of <hi>Dublin,</hi> that Bills may forthwith be tranſmitted into <hi>England,</hi> containing all ſuch Lawes as are now in force there againſt all <hi>Ieſu<g ref="char:EOLhyphen"/>its, Prieſts, Fryers, Monks,</hi> and all other ſuperſtitious
+<pb facs="tcp:160172:4"/>
+               <!-- PDF PAGE 27 -->
+orders and ſocieties of the Popiſh preten<g ref="char:EOLhyphen"/>ded Clergy, and their Relievers, and againſt Recuſants and other Papiſts to be enacted in this Kingdome. And ſuch further Lawes as are or ſhall be needfull in that behalfe, &amp; that ſuch neceſſary expreſſions and proviſi<g ref="char:EOLhyphen"/>ons may be therein made, as may be agree<g ref="char:EOLhyphen"/>able with the conſtitutions of this Kingdom and may give hopefull and comfortable aſ<g ref="char:EOLhyphen"/>ſurance to your ſupplicants, and their poſte<g ref="char:EOLhyphen"/>rity, and to all others of the Proteſtant Reli<g ref="char:EOLhyphen"/>gion, who are or ſhall be in this Kingdome. That it may not be in the power of any Go<g ref="char:EOLhyphen"/>vernor, or Governours of this Kingdom, to ſuſpend, inhibit, or connive at the execu<g ref="char:EOLhyphen"/>tion of the ſaid Lawes, or any of them, and to this end, that your Lordſhips were in<g ref="char:EOLhyphen"/>truſted by His Majeſty with the Govern<g ref="char:EOLhyphen"/>ment of this Kingdome, and muſt one day give an account thereof before the tribunall of Gods juſtice, will give preſent order for performing your ſupplicants requeſts here<g ref="char:EOLhyphen"/>in expreſſed: and although ſince this moſt hideous, and moſt bloody rebellions be<g ref="char:EOLhyphen"/>gan, we have had ſome ſuccours out of
+<pb facs="tcp:160172:4"/>
+               <!-- PDF PAGE 27 -->
+England, which we aſcribe to the mercy of God, in the great wiſdome, and piety of his ſacred Majeſty, and in the carefull and cha<g ref="char:EOLhyphen"/>ritable endeavours of the Parliament and Kingdome of England, with His Majeſties grace and goodneſſe, we with the duty and loyalty of faithfull Subjects, do moſt hum<g ref="char:EOLhyphen"/>bly and thankfully acknowledge to His roy<g ref="char:EOLhyphen"/>all Majeſty, and do alſo render to his Parlia<g ref="char:EOLhyphen"/>ment of England, moſt hearty thankes for their ſaid care and endeavour for us; yet we find with inward ſorrow, and griefe of heart, that for want of ſuch powerfull and ſpeedy ſuccours of men, money, Victualls, Clothes, Armes, Ammunition, and other requiſites of warre neceſſary to be ſent hi<g ref="char:EOLhyphen"/>ther out of England; This warre for Gods cauſe, and the cauſe of his ſervants in this Kingdome hath hitherto had but a ſlow proceeding. They therefore moſt hum<g ref="char:EOLhyphen"/>bly beſeech your Lordſhips to repreſent to his ſacred Majeſty their humble deſires, and ſupplication, that it may ſtand with his Princely pleaſure, that an effectuall and ſpee<g ref="char:EOLhyphen"/>dy courſe may be taken by His Majeſties
+<pb facs="tcp:160172:5"/>
+               <!-- PDF PAGE 28 -->
+high wiſdome, and the care of the Par<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ment, for the haſting of thoſe needfull ſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cours, which the ſaid Lords and Commo<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> humbly conceive, have been hitherto <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tarded longer, (they doubt and feare) the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can well conſiſt with the ſafety of this hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ancient Rightfull Crowne and Kingdome and ſo by the high wiſdome, and gre<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> goodneſſe of his Majeſty our great grief<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and ſorrowes converted unto joy and glad<g ref="char:EOLhyphen"/>neſſe, Gods true Religion may be more firmly eſtabliſhed, His Majeſty, in wiſdom<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and power magnified, his good Subiects comforted, and his enemies, and the ene<g ref="char:EOLhyphen"/>mies of Gods truth diſappointed.</p>
+            <trailer>To the Right Honourable, the Lord Lieutenant, and the Lords, Juſtices, and Councell.</trailer>
+            <closer/>
+            <postscript>
+               <p>Copia vera</p>
+               <closer>
+                  <signed>ex, per <hi>Phil: Ferneles.</hi> Cler. parl. Dom. Com.</signed>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
